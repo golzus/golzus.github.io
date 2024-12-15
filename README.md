@@ -1,33 +1,73 @@
-<h1 align="center">Hi 👋, I'm Golda Zusman</h1>
-<h3 align="center">Passionate Full Stack Developer</h3>
+<h1 align="center">✨ Hi there! I'm <span style="color: #d63384;">Golda Zusman</span> 👋 ✨</h1>
+<h3 align="center">🚀 Passionate Full Stack Developer | Problem Solver | Creative Thinker</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=golzus&label=Profile%20views&color=0e75b6&style=flat" alt="golzus" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=golzus" alt="golzus" /></a> </p>
-
-- 🤝 I’m looking for help with **Exploring exciting opportunities in Full Stack Development where creativity and quality matter most.**
-
-- 👨‍💻 All of my projects are available at [github.com/golzus](github.com/golzus)
-
-- 📝 Why to Hire Me? [If you're looking for someone highly motivated, exceptionally talented, and passionate about development, I’m your perfect match! My dedication to solving complex challenges, paired with my creativity and strong work ethic, ensures that I’ll bring immense value to your team. I thrive on learning and growing, and I’ll make sure to exceed your expectations in every way.](If you're looking for someone highly motivated, exceptionally talented, and passionate about development, I’m your perfect match! My dedication to solving complex challenges, paired with my creativity and strong work ethic, ensures that I’ll bring immense value to your team. I thrive on learning and growing, and I’ll make sure to exceed your expectations in every way.)
-
-- 💬 Ask me about **Feel free to ask me about React and Node, CI CD PIPLINES C# and all skills who are written down for building modern web apps. I love talking about algorithms and the joy of solving coding problems! Ask me anything, and I’ll be happy to discuss.**
-
-- 📫 How to reach me **golda.z2030@gmail.com**
-
-- 📄 Know about my experiences [My detailed resume gives insight into my experience as a Full Stack developer and the projects I’ve worked on, including algorithm-based solutions and real-time applications.](My detailed resume gives insight into my experience as a Full Stack developer and the projects I’ve worked on, including algorithm-based solutions and real-time applications.)
-
-- ⚡ Fun fact **I went to a graphologist, and he/she said I’m so talented that I won’t have to look for a job—companies will be fighting over who gets to hire me!**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=golzus&label=Profile%20views&color=0e75b6&style=flat" alt="golzus" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://www.elastic.co" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=golzus&margin-w=5&theme=dracula" alt="golzus trophies" />
+  </a>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=golzus&show_icons=true&locale=en&layout=compact" alt="golzus" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=golzus&show_icons=true&locale=en" alt="golzus" /></p>
+### 🌟 About Me:
+- 🤝 **Exploring exciting opportunities in Full Stack Development** where creativity and quality matter most.
+- 👨‍💻 **All of my projects** are available on my GitHub: [github.com/golzus](https://github.com/golzus)
+- 📝 **Why hire me?**  
+  If you're looking for someone highly motivated, exceptionally talented, and passionate about development, I’m your perfect match!  
+  My dedication to solving complex challenges, paired with creativity and a strong work ethic, ensures immense value for your team.
+- 💬 **Ask me about:** React, Node.js, CI/CD Pipelines, C#, and all the tools below!  
+  I also love discussing algorithms and solving coding challenges. 🧩
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=golzus&" alt="golzus" /></p>
+---
+
+### 📫 Connect with Me:
+- 📧 Email: **golda.z2030@gmail.com**
+- 📄 Check out my [resume](https://your-resume-link.com) for insights into my experience as a Full Stack Developer.
+- ⚡ **Fun Fact:** A graphologist once said I'm so talented that companies will compete to hire me. 💼✨
+
+---
+
+### 🛠️ Languages & Tools:
+<p align="center">
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/> 
+  </a>
+  <a href="https://nodejs.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/> 
+  </a>
+  <a href="https://redux.js.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Redux" width="40" height="40"/>
+  </a>
+  <a href="https://www.python.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  </a>
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>
+  </a>
+  <a href="https://www.java.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/> 
+  </a>
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS" width="40" height="40"/>
+  </a>
+  <a href="https://www.elastic.co" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="Elasticsearch" width="40" height="40"/>
+  </a>
+</p>
+
+---
+
+### 📊 GitHub Stats:
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=golzus&show_icons=true&locale=en&layout=compact&theme=radical" alt="golzus stats" />
+</p>
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=golzus&show_icons=true&locale=en&theme=radical" alt="golzus stats" />
+</p>
+<p align="center">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=golzus&theme=radical" alt="golzus streak stats" />
+</p>
