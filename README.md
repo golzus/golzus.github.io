@@ -1,32 +1,22 @@
 <h1 align="center">✨ Hi there! I'm <span style="color: #d63384;">Golda Zusman</span> 👋 ✨</h1>
 <h3 align="center">🚀 Passionate Full Stack Developer | Problem Solver | Creative Thinker</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=golzus&label=Profile%20views&color=0e75b6&style=flat" alt="golzus" />
-</p>
-
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=golzus&margin-w=5&theme=dracula" alt="golzus trophies" />
-  </a>
-</p>
-
 ---
 
 ### 🌟 About Me:
 - 🤝 **Exploring exciting opportunities in Full Stack Development** where creativity and quality matter most.
-- 👨‍💻 **All of my projects** are available on my GitHub: [github.com/golzus](https://github.com/golzus)
 - 📝 **Why hire me?**  
   If you're looking for someone highly motivated, exceptionally talented, and passionate about development, I’m your perfect match!  
-  My dedication to solving complex challenges, paired with creativity and a strong work ethic, ensures immense value for your team.
-- 💬 **Ask me about:** React, Node.js, CI/CD Pipelines, C#, and all the tools below!  
+  My dedication to solving complex challenges, paired with creativity and a strong work ethic, ensures immense value for your team.  
   I also love discussing algorithms and solving coding challenges. 🧩
 
 ---
 
+
 ### 📫 Connect with Me:
-- 📧 Email: **golda.z2030@gmail.com**
-- 📄 Check out my [resume](https://your-resume-link.com) for insights into my experience as a Full Stack Developer.
+- 📧 Email: *golda.z2030@gmail.com*  
+- 📞 Phone: *0504199417*
+
 - ⚡ **Fun Fact:** A graphologist once said I'm so talented that companies will compete to hire me. 💼✨
 
 ---
@@ -56,6 +46,15 @@
   </a>
   <a href="https://www.elastic.co" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="Elasticsearch" width="40" height="40"/>
+  </a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
+  </a>
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/>
+  </a>
+  <a href="https://heroku.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="Heroku" width="40" height="40"/>
   </a>
 </p>
 
